@@ -1,0 +1,8 @@
+#Brithany Sanchez 
+#09/16/2024
+#cfu#2
+first = input("What's your first name:")
+last = input("What's your last name:")
+age = input("How old are you?")
+food = input("What did you eat today?")
+print("Hello " + first + " " +last + "What did you eat today " + food + " ") 
